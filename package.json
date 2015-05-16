@@ -1,6 +1,6 @@
 {
   "name": "proxy-cache-multi-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Proxy Cache Multi-Middleware for Express",
   "main": "index.js",
   "scripts": {
